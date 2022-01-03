@@ -1,0 +1,36 @@
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    margin-right: 50px;
+     margin-left: 50px;
+    margin-top: 30px;
+    justify-content: space-around;
+    /* overflow-x: hidden; */
+    
+}
+
+.services h1{
+    font-size: 76px;
+text-align: center;
+font-family:  Arial;
+padding-top: 30px;
+color: firebrick;
+}
+
+.services-name h2{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+
+.services-name p{
+    border-bottom: 1px solid #86c64D;
+    
+    border-bottom-width: 2px;
+    width: 200px;
+    margin-left: 575px;
+    
+}
+

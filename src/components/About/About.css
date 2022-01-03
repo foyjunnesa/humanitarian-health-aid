@@ -1,0 +1,29 @@
+/* .about-layout div{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+} */
+
+.text-name{
+    
+    background-color: whitesmoke;
+  text-align: center;
+  cursor: default;
+}
+
+.img{
+    cursor: grab;
+    width: 60%;
+}
+
+.text-name h3{
+    padding-top: 15px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-name p{
+    color: black;
+    font-family: Arial;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
