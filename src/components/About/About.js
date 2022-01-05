@@ -8,7 +8,7 @@ const About = () => {
 
             <section className='about-layout'>
                 <div className='text-name'>
-                    <h1 style={{ fontSize: '45px', paddingTop: '30px' }}>Get Know <span style={{ color: 'white' }}>Us</span></h1>
+                    <h1 style={{ fontSize: '45px', paddingTop: '30px' }}>Get Know <span style={{ color: '#86c64Ded' }}>Us</span></h1>
                     <h3>Mission Statement</h3>
                     <p>To provide patient-centered healthcare with excellence in quality, service, and access.
                     </p>

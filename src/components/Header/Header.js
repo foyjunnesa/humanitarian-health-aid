@@ -9,6 +9,11 @@ const Header = () => {
                 <a href="services">Services</a>
                 <a href="contact">Contact</a>
                 <a href="about">About Us</a>
+
+                <div className='meet' style={{ display: 'flex', marginLeft: '400px' }}>
+                    <a href="">Meet with Doctor&#10132;</a>
+                    <a href="">Login&#10132;</a>
+                </div>
             </div>
 
 

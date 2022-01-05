@@ -5,7 +5,7 @@
 .nav{ 
     padding-top: 5px;
     padding-bottom: 5px;
-    
+    display: flex;
     text-align: right;
 }
 
@@ -21,3 +21,19 @@ text-decoration: none;
 .nav a:hover{
     color: gainsboro;
 }
+ .meet a{
+     border: 1px solid red;
+     font-size: 16px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 3px;
+     padding-bottom: 3px;
+     background-color: white;
+     color: chartreuse;
+     border-radius: 3px;
+     color: black;
+ }
+
+ .meet a:hover{
+     color: red;
+ }

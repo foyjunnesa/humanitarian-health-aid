@@ -1,18 +1,28 @@
-# Getting Started with Create React App
+# Humanitarian Health-Aid
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is About Health-Aid Services(https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Important Features of this Project
 
-In the project directory, you can run:
+This project is about medical services.This is a digital platform for any treatment take by online.
+In this plaftform pepole can easily live counscule with best doctor.
+Any time pepole can take serial by online meet with doctor.
+Very fast responsive customer care for know about our services.
+we have more specilist docotor in this platfrom.
+we have more specilist docotor in this Humanitarian Health-Aid.
 
-### `npm start`
+### Uses tools and framework
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+JavaScript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React
+
+JSX
+
+Basic CSS
+
+React Bootstrap
+
 
 ### `npm test`
 
