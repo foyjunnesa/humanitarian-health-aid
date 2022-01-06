@@ -1,27 +1,27 @@
 # Humanitarian Health-Aid
 
-This project is About Health-Aid Services(https://github.com/facebook/create-react-app).
+This project is About Health-Aid Services [visit website](https://distracted-perlman-df7324.netlify.app/).
 
 ## Important Features of this Project
 
-This project is about medical services.This is a digital platform for any treatment take by online.
-In this plaftform pepole can easily live counscule with best doctor.
-Any time pepole can take serial by online meet with doctor.
-Very fast responsive customer care for know about our services.
-we have more specilist docotor in this platfrom.
-we have more specilist docotor in this Humanitarian Health-Aid.
+- This project is about medical services.This is a digital platform for any treatment take by online.
+- In this plaftform pepole can easily live counscule with best doctor.
+- Any time pepole can take serial by online meet with doctor.
+- Very fast responsive customer care for know about our services.
+- we have more specilist docotor in this platfrom.
+- we have more specilist docotor in this Humanitarian Health-Aid.
 
 ### Uses tools and framework
 
-JavaScript
+1. JavaScript
 
-React
+2. React
 
-JSX
+3. JSX
 
-Basic CSS
+4. Basic CSS
 
-React Bootstrap
+5. React Bootstrap
 
 
 ### `npm test`

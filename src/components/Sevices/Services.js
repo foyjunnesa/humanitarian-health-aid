@@ -36,6 +36,9 @@ const Services = () => {
                 display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gridGap: '10px', marginLeft: '150px', marginTop: '60px', padding: '10px', marginRight: '170px'
 
             }}>
+            </div>
+
+            <div className="doctor-info">
                 <div style={{ boxShadow: '2px 2px 3px grey', borderRadius: '10px', padding: '10px' }}>
                     <img style={{ width: '75%', marginLeft: '50px' }} src="https://image.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg?1" alt="" />
                     <h2 style={{ marginLeft: '90px', fontSize: '22px', color: '#86c64D' }}>Prof. Dr. Frederick Banting</h2>
@@ -57,6 +60,7 @@ const Services = () => {
                     <p style={{ marginLeft: '127px' }}>Bachelor of Medicine(MBBS)</p>
                 </div>
             </div>
+
         </div>
     );
 };
